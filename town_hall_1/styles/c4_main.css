@@ -22,7 +22,9 @@ main h2 {
 	text-indent: 30px;
 }
 main h3 {
-	font-size: 105%;
+	font-size: 130%;
+	font-family: italics;
+	text-indent: 30px;
 }
 
 /* the styles for the footer */
