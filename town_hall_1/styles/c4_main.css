@@ -17,7 +17,7 @@ main h1 {
 	font-size: 150%;
 }
 main h2 {
-	color: #80,00,00;
+	color: var(80,00,00);
 	font-size: 170%;
 }
 main h3 {
