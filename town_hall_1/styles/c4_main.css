@@ -19,6 +19,7 @@ main h1 {
 main h2 {
 	color: #800000;
 	font-size: 170%;
+	text-indent: 30px;
 }
 main h3 {
 	font-size: 105%;
