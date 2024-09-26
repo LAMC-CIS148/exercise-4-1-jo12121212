@@ -18,7 +18,7 @@ header h3 {
 	font-family: italics;
 	text-indent: 30px;
 }
-em {
+h3 em {
 	text-shadow: -2px -2px 4px red;
 }
 
