@@ -25,14 +25,10 @@ main {
 	a:hover {font-style: italic;}
 }
 main h2 {
-	color: #800000;
-	font-size: 170%;
-	text-indent: 30px;
+	
 }
 main h3 {
-	font-size: 130%;
-	font-family: italics;
-	text-indent: 30px;
+	
 }
 footer p {
 text-align: center;
