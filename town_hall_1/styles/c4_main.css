@@ -24,5 +24,8 @@ main h3 {
 	font-family: italics;
 	text-indent: 30px;
 }
+footer p {
+text-align: center;
+}
 
 /* the styles for the footer */
