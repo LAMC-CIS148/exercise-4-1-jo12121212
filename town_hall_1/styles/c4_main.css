@@ -12,7 +12,10 @@ header img {
 /* the styles for the main content */
 main {
 	clear: left;
-	a:hover {font-style: italic;}
+	a:link {
+	color: green;
+}
+a:hover, a:focus {
 }
 main h1 {
 	font-size: 150%;
