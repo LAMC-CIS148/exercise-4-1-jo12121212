@@ -18,6 +18,10 @@ header h3 {
 	font-family: italics;
 	text-indent: 30px;
 }
+em {
+	text-shadow: -2px -2px 4px red;
+}
+
 
 /* the styles for the main content */
 main {
