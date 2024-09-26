@@ -8,6 +8,16 @@ body {
 header img {
 	float: left;
 }
+header h2 {
+	color: #800000;
+	font-size: 170%;
+	text-indent: 30px;
+}
+header h3 {
+	font-size: 130%;
+	font-family: italics;
+	text-indent: 30px;
+}
 
 /* the styles for the main content */
 main {
