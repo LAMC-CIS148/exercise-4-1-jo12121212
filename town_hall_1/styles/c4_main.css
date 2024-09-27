@@ -28,10 +28,10 @@ main {
 	a:hover {font-style: italic;}
 }
 main h2 {
-	
+		color: #800000;
+
 }
 main h3 {
-	color: #800000;
 	
 }
 footer p {
